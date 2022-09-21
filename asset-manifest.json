@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/saibweb/static/js/main.398d35f6.js",
+    "main.js": "/saibweb/static/js/main.d598bc8d.js",
     "index.html": "/saibweb/index.html",
-    "main.398d35f6.js.map": "/saibweb/static/js/main.398d35f6.js.map"
+    "main.d598bc8d.js.map": "/saibweb/static/js/main.d598bc8d.js.map"
   },
   "entrypoints": [
-    "static/js/main.398d35f6.js"
+    "static/js/main.d598bc8d.js"
   ]
 }
