@@ -14,6 +14,11 @@ export const Container = styled.div`
   padding: 1rem;
 
   > h1 {
+    font-size: 1.5rem;
+    margin: 0.5rem 0;
+  }
+
+  > h2 {
     font-size: 1.1rem;
     margin: 0.5rem 0;
   }

@@ -24,7 +24,8 @@ export function Search() {
 
   return (
     <Container>
-      <h1>Digite o nome de usuário do github para buscar os repositórios</h1>
+      <h1>Página com styles atráves de components do styled-components</h1>
+      <h2>Digite o nome de usuário do github para buscar os repositórios</h2>
       <input
         placeholder="Nome de usuário"
         type="text"
