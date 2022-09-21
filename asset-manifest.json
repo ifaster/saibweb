@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "https://saibweb.ifaster.com.br/static/js/main.cfcf329e.js",
-    "index.html": "https://saibweb.ifaster.com.br/index.html",
-    "main.cfcf329e.js.map": "https://saibweb.ifaster.com.br/static/js/main.cfcf329e.js.map"
+    "main.js": "https://ifaster.github.io/saibweb/static/js/main.4b94f44a.js",
+    "index.html": "https://ifaster.github.io/saibweb/index.html",
+    "main.4b94f44a.js.map": "https://ifaster.github.io/saibweb/static/js/main.4b94f44a.js.map"
   },
   "entrypoints": [
-    "static/js/main.cfcf329e.js"
+    "static/js/main.4b94f44a.js"
   ]
 }
