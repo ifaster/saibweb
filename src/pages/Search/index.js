@@ -13,7 +13,7 @@ export function Search() {
         const response = await axios(
           `https://api.github.com/users/${nameUserRepo}/repos`
         );
-        navigate("/Result", {state: {repos: response.data}})
+        navigate("/saibweb/Result", {state: {repos: response.data}})
       } else {
         alert("Informe o nome do usuário")
       }  
@@ -31,7 +31,7 @@ export function Search() {
         onChange={(e) => setNameUserRepo(e.target.value)}
       />
       <button onClick={handleLoadRepo}>Buscar repos</button>
-      <Link to="/">Voltar</Link>
+      <Link to="/saibweb">Voltar</Link>
     </Container>
   );
 }

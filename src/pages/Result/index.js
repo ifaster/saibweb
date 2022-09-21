@@ -13,7 +13,7 @@ export function Result() {
         })}
       </List>
       <Link
-        to="/Search"
+        to="/saibweb//Search"
         style={{ padding: "0.5rem 1rem", color: "#000", background: "yellow", borderRadius: "10px", fontWeight: "bold" }}
       >
         Voltar
