@@ -7,9 +7,9 @@ import { Result } from "../pages/Result";
 export function Router() {
   return (
     <Routes>
-      <Route path="/saibweb" index element={<Main />} />
-      <Route path="/saibweb/Search" element={<Search />} />
-      <Route path="/saibweb/Result" element={<Result />} />
+      <Route index element={<Main />} />
+      <Route path="/Search" element={<Search />} />
+      <Route path="/Result" element={<Result />} />
     </Routes>
   );
 }
